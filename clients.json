@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "26.2 Fabric",
+    "type": "Fabric",
+    "status": "NEXWARE",
+    "title": "NEXWARE",
+    "description": "Сборка на Fabric 26.2",
+    "folder": "Nexware-26.2-Fabric",
+    "minecraftVersion": "26.2",
+    "loader": "fabric",
+    "loaderVersion": "0.20.1",
+    "modUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "26.2 Forge",
+    "type": "Forge",
+    "status": "Стабильная",
+    "title": "NEXWARE FORGE",
+    "description": "Сборка на Forge 26.2",
+    "folder": "Nexware-26.2-Forge",
+    "minecraftVersion": "26.2",
+    "loader": "forge",
+    "loaderVersion": "65.1.5",
+    "modUrl": ""
+  }
+]
