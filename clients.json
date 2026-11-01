@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "26.2",
+    "type": "Fabric",
+    "status": "Комфортный клиент на 26.2",
+    "title": "NEXWARE",
+    "description": "Комфортный клиент на 26.2",
+    "folder": "Nexware-26.2-Fabric",
+    "minecraftVersion": "26.2",
+    "loader": "fabric",
+    "loaderVersion": "0.20.1",
+    "modUrl": "https://github.com/ToxicHalo-source/nexwear/raw/refs/heads/main/nexwwear-alpha.jar"
+  }
+]
